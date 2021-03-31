@@ -227,6 +227,7 @@ margin: 0 auto;
     max-width: 495px;
     padding-top: 100px;
     padding-bottom: 96px;
+    padding-left: 5px;
 }
 
 .footer__header {
@@ -252,6 +253,7 @@ margin: 0 auto;
     color: #FFFFFF;
     background: #5A98D0;
     text-decoration: none;
+    margin-right: 5px;
 }
 .lets_talk:hover {
     background-color: #5A80D0;
@@ -266,6 +268,7 @@ margin: 0 auto;
     opacity: 1;
     padding: 64px 19px;
     margin-top: 4px;
+    margin-left: 5px;
 }
 .footer__contacts_item {    
     font-size: 16px;
