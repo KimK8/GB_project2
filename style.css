@@ -328,7 +328,7 @@ margin: 0 auto;
     }
     .footer_content {
         width: 336px;
-        padding-left: 117px;
+        padding-left: 100px;
         padding-top: 47px;
         padding-bottom: 60px;
     }   
@@ -341,7 +341,7 @@ margin: 0 auto;
     }
     .footer_contacts {
         flex-direction: column;
-        padding: 35px 19px 60px 130px;
+        padding: 35px 19px 60px 115px;
     }
     .footer__contacts_item {        
         max-width: 100%;
