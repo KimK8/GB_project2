@@ -325,29 +325,32 @@ margin: 0 auto;
     }
     .footer {
         margin-top: 109px;
-    }/*
+    }
     .footer_content {
         width: 336px;
-        padding-left: 100px;
+        padding-left: 117px;
         padding-top: 47px;
         padding-bottom: 60px;
-    }   */ 
-    /*
+    }   
+    
     .footer__text {
-        /*width: 336px;
-    }*/
+        width: 336px;
+    }
     .lets_talk {
          padding: 4px 31px;
+         margin-right: 117px;
     }
     .footer_contacts {
         flex-direction: column;
-        /*padding-left: 124px;
-        padding: 35px 19px 60px 124px;*/
+        padding: 35px 19px 60px 130px;
     }
     .footer__contacts_item {        
         max-width: 100%;
         padding-top: 25px;
         padding-left: 35px;
+    }
+    .copyrights {
+        padding-left: 109px;
     }
     
 }
